@@ -1,5 +1,6 @@
 This game is memory. We all have played this game, I hope you will like this game.
-In this game, its background has been kept dark so that, we can play this game for a longer time.
+  
+  In this game, its background has been kept dark so that, we can play this game for a longer time.
 
                            <=============== Screenshots ================>
                                             First Interface
